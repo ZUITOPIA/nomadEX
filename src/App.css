@@ -1,0 +1,8 @@
+.base{
+    margin: 0px;
+    height: 1000;
+    content: '';
+    background: linear-gradient(to top, black, transparent);
+    position: absolute;
+    left: 0;
+}

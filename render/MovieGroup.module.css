@@ -1,0 +1,22 @@
+.movie{
+    display: flex;
+    justify-content: center;
+}
+
+.show{
+    width: 500px;
+    height: 350px;
+    border: 0px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.poster{
+    float: left;
+    width: 230;
+    height: 340;
+}
+
+.title{
+    justify-content: center;
+}
